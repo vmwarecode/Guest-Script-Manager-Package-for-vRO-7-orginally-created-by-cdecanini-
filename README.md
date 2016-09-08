@@ -1,1 +1,0 @@
-# Guest-Script-Manager-Package-for-vRO-7-orginally-created-by-cdecanini-
